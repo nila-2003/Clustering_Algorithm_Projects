@@ -1,5 +1,4 @@
-# Projects (Using Clustering)
-1. Customer Segmentation
+#1. Customer Segmentation
 
 Dataset Used: https://www.kaggle.com/datasets/shwetabh123/mall-customers
 
@@ -9,7 +8,7 @@ Plotting the scatter plot, it was found that the "Blue" colored cluster were the
 
 Method used: kmeans.inertia_
 
-2. Brain MRI Image Segmentation
+#2. Brain MRI Image Segmentation
 
 Dataset used: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
