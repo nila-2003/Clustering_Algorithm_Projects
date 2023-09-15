@@ -13,3 +13,5 @@ Method used: kmeans.inertia_
 
 Dataset used: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
+The image clustering was done using k-means algorithm where the k-value was found to be 2 by the elbow method.
+
